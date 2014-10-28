@@ -1,0 +1,13 @@
+[DEBUG][./src/main.c:265] flag received: 2
+
+[INFO][./src/main.c:301] Outbox send success!
+[DEBUG][./src/main.c:265] flag received: 0
+
+[DEBUG][./src/main.c:265] flag received: 0
+
+[DEBUG][./src/main.c:265] flag received: 0
+
+[DEBUG][./src/main.c:265] flag received: 2
+
+[DEBUG][./src/main.c:265] flag received: 2
+

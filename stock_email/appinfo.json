@@ -1,0 +1,67 @@
+{
+    "appKeys": {
+        "KEY_CHANGE": 4,
+        "KEY_CONDITIONS": 1,
+        "KEY_CURRENT": 3,
+        "KEY_FACE": 5,
+        "KEY_SYMBOL": 2,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "longName": "Pebble_stock&weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/stock_rise.png",
+                "name": "IMAGE_STOCKUP",
+                "type": "png"
+            },
+            {
+                "file": "images/stock_down.png",
+                "name": "IMAGE_STOCKDOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/sad.png",
+                "name": "IMAGE_SAD",
+                "type": "png"
+            },
+            {
+                "file": "images/happy.png",
+                "name": "IMAGE_HAPPY",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "stock&weather",
+    "uuid": "07e6aa29-566d-4592-99d2-9caf8b7cea33",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

@@ -1,0 +1,18 @@
+# project  configured on Sun Oct 26 22:35:14 2014 by
+# waf 1.7.11 (abi 98, python 20706f0 on linux2)
+# using /home/zhi/pebble-dev/PebbleSDK-2.5/Pebble/waf configure build
+#
+----------------------------------------
+Setting top to
+/home/zhi/zhili/test
+----------------------------------------
+Setting out to
+/home/zhi/zhili/test/build
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
